@@ -1,4 +1,4 @@
-# The LF Innovation Glidepath
+## The LF Innovation Glidepath
 ### How Companies Thrive in the Age of Disruption Through Open Source
 
 ---
@@ -12,7 +12,12 @@
 
 @snap[west span-50]
 
-## Customize the Layout
+### What does it take to solve this?
+- Developers
+- Robust Digital Platforms
+- External Insights Into Innovation
+
+## Innovation Maturity   
 @snapend
 
 @snap[east span-50]
