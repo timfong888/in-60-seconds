@@ -1,8 +1,9 @@
-# Let's Get Started
+# The LF Innovation Glidepath
+### How Companies Thrive in the Age of Disruption Through Open Source
 
 ---
 
-## Add Some Slide Candy
+## Innovation Matters 
 
 ![](assets/img/presentation.png)
 
@@ -10,6 +11,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
+
 ## Customize the Layout
 @snapend
 
